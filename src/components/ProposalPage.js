@@ -64,7 +64,7 @@ function ProposalPage({ onYes }) {
             </p>
 
             <p className="text-gray-700 text-base md:text-lg leading-relaxed mb-6">
-              Every answer you chose reminded me of why I fell in love with you. Your kindness, your laughter, the way you light up every room you walk into – you are my everything.
+              Every answer you chose reminded me of why I fell in love with you. Your kindness, your laughter, the way you light up every room you walk into - you are my everything.
             </p>
 
             <p className="text-gray-700 text-base md:text-lg leading-relaxed mb-8">
@@ -130,7 +130,7 @@ function ProposalPage({ onYes }) {
           </div>
 
           <p className="mt-8 text-sm md:text-base text-gray-600 italic">
-            (Hint: The no button won't let you choose that option 😉)
+            {/* (Hint: The no button won't let you choose that option 😉) */}
           </p>
         </div>
       </div>
