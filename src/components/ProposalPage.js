@@ -77,7 +77,7 @@ function ProposalPage({ onYes }) {
 
             <p className="text-right text-gray-700 text-lg">
               <span className="block">Forever Yours,</span>
-              <span className="block font-bold text-rose-600 mt-2">Megha 💕</span>
+              <span className="block font-bold text-rose-600 mt-2">Laddu 💕</span>
             </p>
           </div>
 
